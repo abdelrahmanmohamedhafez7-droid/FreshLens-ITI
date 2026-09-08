@@ -5,7 +5,7 @@
 FreshLens is an ITI training project that classifies a single fruit or vegetable product image into one of **84 general categories**. It combines dataset auditing, label review, CNN training, transfer learning, and an interactive Streamlit application.
 
 > **Project status:** Educational prototype. Performance on natural photographs remains limited. Predictions require human review and are not suitable for unattended checkout.
-
+**[Application Link](https://freshlens-iti.streamlit.app/)**
 ## Contents
 
 - [Features](#features)
