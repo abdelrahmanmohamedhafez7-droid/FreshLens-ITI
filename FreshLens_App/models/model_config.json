@@ -1,0 +1,18 @@
+{
+  "selected_model": "transfer_head_best",
+  "label_level": "general_product",
+  "image_size": 160,
+  "num_classes": 84,
+  "color_mode": "RGB",
+  "pixel_range": [
+    0,
+    255
+  ],
+  "normalization": "included_in_model",
+  "resize_method": "pil_bilinear_white_pad_then_jpeg95",
+  "tensorflow_version": "2.20.0",
+  "keras_version": "3.13.2",
+  "selection_rule": "minimum mean controlled/natural validation loss",
+  "split_protocol": "normalized variety groups; multi 2018 validation, 2022 test, other known years train",
+  "limitation": "Grouping proxies do not prove independent objects; natural test covers a subset; unknown objects may receive high scores."
+}

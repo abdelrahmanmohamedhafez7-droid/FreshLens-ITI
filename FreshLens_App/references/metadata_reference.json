@@ -1,0 +1,1026 @@
+[
+  {
+    "member": "fruits-360-meta-main/LICENSE",
+    "text": "CC BY-SA 4.0\n\nCopyright (c) 2017-, [Mihai Oltean](https://mihaioltean.github.io)\n\nYou are free to:\n\n*Share* \u2014 copy and redistribute the material in any medium or format for any purpose, even commercially.\n\n*Adapt* \u2014 remix, transform, and build upon the material for any purpose, even commercially.\n\nUnder the following terms:\n\n*Attribution* \u2014 You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\n\n*ShareAlike* \u2014 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Almonds 1/info.txt",
+    "text": "VERSION=2026.2.7.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 10/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 11/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 12/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 13/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 14/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 17/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 18/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 19/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 20/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=1\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=0\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 21/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=0\nDEFECTS[2]=1\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=0\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=3\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=3\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=1"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 22/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 23/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 6/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 7/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 8/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple 9/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Braeburn 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Crimson Snow 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Golden 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Golden 2/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Golden 3/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Granny Smith 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Pink Lady 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=0"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red 2/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red 3/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red Delicious 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red Yellow 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=2\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apple Red Yellow 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Apricot 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Avocado 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Avocado Black 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Avocado Black 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Avocado Green 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Avocado ripe 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Banana 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Banana 3/info.txt",
+    "text": "VERSION=2024.02.27.0\nCLUSTERS[2]=1\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=3\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=1"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Banana 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Banana Lady Finger 1/info.txt",
+    "text": "VERSION=2024.02.27.0\nCLUSTERS[2]=1\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=3\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=1"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Banana Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Bean pod 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=3\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Beetroot 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blackberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blackberry 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blackberry 3/info.txt",
+    "text": "VERSION=2026.2.14.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blackberry 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blackberry 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Blueberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cabbage White 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=1\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=0\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=3\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=2\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cabbage red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cactus fruit 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cactus fruit green 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cactus fruit red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Caju seed 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=3\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cantaloupe 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cantaloupe 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cantaloupe 3/info.txt",
+    "text": "VERSION=2026.2.7.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Carambula 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Carrot 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=0\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=0\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=1\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cauliflower 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherimoya 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Rainier 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Rainier 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Rainier 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Sour 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax Black 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax Red 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax Red 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cherry Wax Yellow 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Chestnut 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Clementine 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cocos 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Corn 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=4\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Corn Husk 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=4\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=1\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 10/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 11/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 12/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 13/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 3/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=1\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 6/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 7/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 8/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Cucumber 9/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Dates 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Eggplant 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Eggplant long 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=2\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=4\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Fig 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Ginger 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=4\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Ginger Root 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=4\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Gooseberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Granadilla 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape Blue 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape Pink 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape White 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape White 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape White 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grape White 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grapefruit Pink 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Grapefruit White 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Guava 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Hazelnut 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Huckleberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Kaki 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Kiwi 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Kohlrabi 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Kumquats 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Lemon 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Lemon Meyer 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Limes 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Lychee 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Mandarine 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Mango 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Mango Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Mangostan 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Maracuja 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Melon Piel de Sapo 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Mulberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nectarine 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nectarine Flat 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nectarine Flat 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut Forest 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Nut Pecan 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion Red 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion Red 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion White 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Onion White 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Orange 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Orange 2/info.txt",
+    "text": "VERSION=2026.3.6.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Orange 3/info.txt",
+    "text": "VERSION=2026.3.6.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Papaya 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Papaya 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Passion Fruit 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach 6/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peach Flat 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Peanut shell 1x 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=1\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=0\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=3\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=1"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 10/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 11/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 12/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 13/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 14/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 3/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=1\nFAT[3]=0\nFRUCTOSE[3]=2\nGROWTH LOCATION[3]=2\nHARDNESS[3]=0\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=0\nSIZE[5]=3\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[3]=0\nTYPE[5]=0\nYEARLY TREE[2]=1\nWATER[3]=1"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 6/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 7/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 8/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear 9/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Abate 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Forelle 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Kaiser 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Monster 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Stone 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pear Williams 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepino 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper 1/info.txt",
+    "text": "VERSION=2026.2.22.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=2\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Green 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Orange 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Orange 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Red 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Red 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Red 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Red 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pepper Yellow 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Physalis 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Physalis with Husk 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pineapple 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pineapple Mini 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pistachio 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=3\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pitahaya Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Plum 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Plum 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Plum 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Plum 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Plum hole 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pomegranate 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Pomelo Sweetie 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Potato Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Potato Red 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Potato Sweet 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Potato White 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Quince 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Quince 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Quince 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Quince 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Rambutan 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Raspberry 6/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Redcurrant 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Salak 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=?\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Strawberry 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Strawberry 2/info.txt",
+    "text": "VERSION=2026.2.7.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Strawberry 3/info.txt",
+    "text": "VERSION=2026.2.7.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Strawberry Wedge 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tamarillo 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tangelo 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 10/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 11/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 3/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 4/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 5/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 7/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=0\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 8/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato 9/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=1\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Cherry Maroon 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Cherry Orange 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Cherry Red 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Cherry Red 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Cherry Yellow 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Heart 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Maroon 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Maroon 2/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Tomato Yellow 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Walnut 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=2\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Watermelon 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=0\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Zucchini 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=1\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[2]=0\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Zucchini Dark 1/info.txt",
+    "text": "VERSION=2021.09.10.0\nCLUSTERS[2]=0\nDEFECTS[2]=0\nFAT[3]=0\nFRUCTOSE[3]=0\nGROWTH LOCATION[3]=1\nHARDNESS[3]=1\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=4\nPROCESSED[2]=0\nPURCHASED[2]=1\nSIZE[5]=2\nSKIN HARDNESS[3]=0\nSKIN ROUGHNESS[2]=0\nTYPE[5]=1\nYEARLY TREE[2]=0\nWATER[3]=2"
+  },
+  {
+    "member": "fruits-360-meta-main/Meta/Zucchini Green 1/info.txt",
+    "text": "VERSION=2026.1.11.0\nCLUSTERS[2]=?\nDEFECTS[2]=0\nFAT[3]=?\nFRUCTOSE[3]=?\nGROWTH LOCATION[3]=?\nHARDNESS[3]=?\nMATURITY[3]=1\nNUMBER OF SEEDS[4]=?\nPROCESSED[2]=?\nPURCHASED[2]=?\nSIZE[5]=?\nSKIN HARDNESS[3]=?\nSKIN ROUGHNESS[3]=?\nTYPE[5]=1\nYEARLY TREE[2]=?\nWATER[3]=?"
+  },
+  {
+    "member": "fruits-360-meta-main/README.md",
+    "text": "# Fruits-360: A dataset of images containing fruits, vegetables, nuts and seeds #\r\n\r\n## Version: 2026.3.6.0 ##\r\n\r\n## Branch: meta\r\n\r\nThe archive contains information about the fruits, vegetables, nuts and seeds in the Fruits-360 dataset.\r\n\r\n## Dataset properties ##\r\n\r\nThe number of classes: 253.\r\n\r\n26 classes contains full information.\r\nThe others contain only information about the _type_, _defects_ and _ripeness/maturity_ state.\r\n\r\n## Repository structure ##\r\n\r\nFolder _Meta_ contains information about the objects in the dataset.\r\nFor each object I included information like: type, size, ripeness state, water content, fructose content, growth location, etc.\r\n\r\n[dictionary.txt](dictionary.txt) contains the list of attributes and their possible values.\r\n\r\n## How to cite ##\r\n\r\nMihai Oltean, [Fruits 360 dataset: new research directions](https://www.researchgate.net/publication/354535752_Fruits_360_dataset_new_research_directions), Technical report, 2021.\r\n\r\n## Alternate download ##\r\n\r\nThe Fruits-360 dataset can be downloaded from: \r\n\r\n**Kaggle** [https://www.kaggle.com/moltean/fruits](https://www.kaggle.com/moltean/fruits)\r\n\r\n**GitHub** [https://github.com/fruits-360](https://github.com/fruits-360)\r\n\r\n## License ##\r\n\r\nCC BY-SA 4.0\r\n\r\nCopyright (c) 2017-, [Mihai Oltean](https://mihaioltean.github.io)\r\n\r\nYou are free to:\r\n\r\n*Share* \u2014 copy and redistribute the material in any medium or format for any purpose, even commercially.\r\n\r\n*Adapt* \u2014 remix, transform, and build upon the material for any purpose, even commercially.\r\n\r\nUnder the following terms:\r\n\r\n*Attribution* \u2014 You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\r\n\r\n*ShareAlike* \u2014 If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\r\n\r\n"
+  },
+  {
+    "member": "fruits-360-meta-main/dictionary.txt",
+    "text": "// Version 2026.1.11.0\nCLUSTERS[2 values]=NO (0), YES (1)\nDEFECTS[2 values]=ALMOST NO DEFECTS (0), WITH OBVIOUS DEFECTS (1)\nFAT[3 values]=LOW (0), MEDIUM (1), HIGH (2)\nFRUCTOSE[3 values]=LOW (0), MEDIUM (1), HIGH (2)\nGROWTH LOCATION[3 values]=UNDERGROUND (0), GROUND LEVEL (1), ABOVE GROUND (2)\nHARDNESS[3 values]=SOFT (0), MEDIUM (1) , HARD(2)\nMATURITY[3 values]=UNRIPE (0), RIPEN (1) or OVERRIPE (2)\nNUMBER OF SEEDS[4 values]=NONE (0), ONE (1), FEW (2), MANY (3)\nPROCESSED[2 values]=NO (0), YES (1)\nPURCHASED[2 values]=NO (0), YES (1)\nSIZE[5 values]=SMALL (0), SMALL-MEDIUM (1), MEDIUM (2), MEDIUM-HUGE (3), HUGE (4)\nSKIN HARDNESS[3 values]=SOFT (0), MEDIUM (1), HARD (2)\nSKIN ROUGHNESS[3 values]=SOFT (0), MEDIUM (1), ROUGH (2)\nTYPE[5 values]=FRUIT (0), VEGETABLE (1), NUT (2), SEED (3), OTHER (4)\nYEARLY TREE[2 values]=ANNUALLY (0), MULTI-YEAR (1)\nWATER[3 values]=LOW (0), MEDIUM (1), HIGH (2)"
+  }
+]

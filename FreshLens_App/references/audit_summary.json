@@ -1,0 +1,43 @@
+{
+  "sources": [
+    {
+      "source": "100x100",
+      "images": 184838,
+      "zip_mb": 810.68,
+      "uncompressed_image_mb": 797.35
+    },
+    {
+      "source": "original-size",
+      "images": 104444,
+      "zip_mb": 3909.42,
+      "uncompressed_image_mb": 3963.26
+    },
+    {
+      "source": "3-body-problem",
+      "images": 49236,
+      "zip_mb": 284.15,
+      "uncompressed_image_mb": 279.62
+    },
+    {
+      "source": "multi",
+      "images": 756,
+      "zip_mb": 2384.3,
+      "uncompressed_image_mb": 2387.68
+    },
+    {
+      "source": "meta",
+      "images": 0,
+      "zip_mb": 0.32,
+      "uncompressed_image_mb": 0.0
+    }
+  ],
+  "exact_duplicate_groups": 47658,
+  "exact_duplicate_rows": 96895,
+  "unresolved_label_rows": 17,
+  "ready_for_training": false,
+  "remaining": [
+    "resized-copy and capture-group review",
+    "multi-object crop labeling",
+    "unified split and independent external evaluation"
+  ]
+}
